@@ -1,0 +1,26 @@
+{
+  "name": "z-lib-dom",
+  "version": "0.0.2",
+  "description": "dom manipulation",
+  "main": "lib/z-lib-dom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zibx/z-lib-dom.git"
+  },
+  "dependencies": {
+    "z-lib": "*"
+  },
+  "keywords": [
+    "dom",
+    "manipulation"
+  ],
+  "author": "Zibx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zibx/z-lib-dom/issues"
+  },
+  "homepage": "https://github.com/Zibx/z-lib-dom"
+}
